@@ -145,7 +145,7 @@ class _SettingsPageState extends State<SettingsPage> {
                   },
                   label: const Padding(
                     padding: EdgeInsets.all(8.0),
-                    child: Text("Light Theme"),
+                    child: Text("Thème Clair"),
                   ),
                 ),
               ),
@@ -161,7 +161,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 },
                 label: const Padding(
                   padding: EdgeInsets.all(8.0),
-                  child: Text("Dark Theme"),
+                  child: Text("Thème Sombre"),
                 ),
               ),
             ],
@@ -178,7 +178,7 @@ class _SettingsPageState extends State<SettingsPage> {
             },
             label: const Padding(
               padding: EdgeInsets.all(8.0),
-              child: Text("System Defalut"),
+              child: Text("Système par Defalut"),
             ),
           ),
           const SizedBox(
